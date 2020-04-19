@@ -1,6 +1,6 @@
 *** Download all Favorite books, and sort them to own classification. ***
 
-1. Input cookies to "config.json".
+1. Input cookies to "config.json". Replace "None" to "what your cookie"
 2. Open auto_downloader, and click "Load Config".
 3. Click "set dst folder", and set where you want.
 4. If set fine, Start.
